@@ -1,3 +1,5 @@
+Hello je m'appel Angelo !
+
 Description du programme:
 
 Programme consistant à lire un fichier et afficher son contenu dans le terminal ou la console.
